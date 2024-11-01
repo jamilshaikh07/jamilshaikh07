@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**jamilshaikh07/jamilshaikh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am [Jamil Shaikh](http://jamilshaikh.in), DevOps SRE,.
 
-Here are some ideas to get you started:
+Sr. SRE at [InfraCloud](https://infracloud.io);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.tf` `.sh` `.yaml`
+- 💬 `ping` me about **tools**, **testing**, **devops**, **azure**, **architecture**
+<hr/>
+
+<h2 align="center">🛠️ Tools 󠀠 󠀠 󠀠 󠀠& 󠀠 󠀠  Technologies 🚀</h2>
+
+![Yaml](https://img.shields.io/badge/-yaml-000?&logo=Yaml)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![OpenStack](https://img.shields.io/badge/-Openstack-000?&logo=OpenStack)
+
+### 📫 How to reach me?
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/jamilshaikhsre/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:hi@jamilshaikh.in) 💌 <br>
