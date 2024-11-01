@@ -5,7 +5,7 @@
 Sr. SRE at [InfraCloud](https://infracloud.io);<br>
 
 - ⚙️ I use daily: `.tf` `.sh` `.yaml`
-- 💬 `ping` me about **tools**, **testing**, **devops**, **azure**, **architecture**
+- 💬 `ping` me about **k8s**, **o11y**, **devops**, **azure**, **horse-riding**
 <hr/>
 
 <h2 align="center">🛠️ Tools 󠀠 󠀠 󠀠 󠀠& 󠀠 󠀠  Technologies 🚀</h2>
