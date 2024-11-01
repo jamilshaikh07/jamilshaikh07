@@ -18,7 +18,6 @@ Sr. SRE at [InfraCloud](https://infracloud.io);<br>
 ![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![OpenStack](https://img.shields.io/badge/-Openstack-000?&logo=OpenStack)
 
 ### 📫 How to reach me?
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/jamilshaikhsre/) 👨🏻‍💻 <br>
